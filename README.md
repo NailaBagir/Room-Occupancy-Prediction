@@ -10,3 +10,6 @@ Carbon dioxide(CO2) \
 Target Variable: \
 1-if there is chances of room occupancy. \
 0-No chances of room occupancy
+
+### Inspiration
+Predict whether there are chances of room occupancy or not.
